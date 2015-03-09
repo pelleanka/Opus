@@ -1,0 +1,2 @@
+Opus is a PHP-boilerplate/framework for small websites. Opus was built by Pelle Andersson (pelle@perandersson.se)
+as part of teaching web programming and published in march 2015 at GitHub: https://github.com/mosbth/Opus.
